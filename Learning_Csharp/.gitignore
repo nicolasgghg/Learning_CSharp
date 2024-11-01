@@ -1,0 +1,23 @@
+# Ignore bin and obj folders
+/bin/
+/obj/
+
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+*.sln.ide
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+
+# Ignore build output
+[Dd]ebug/
+[Rr]elease/
+[Aa]ssets/
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.log
